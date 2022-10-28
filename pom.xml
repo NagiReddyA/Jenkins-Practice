@@ -79,7 +79,6 @@
         <version>2.3</version>
         <configuration>
 		<warName>spring-mysql</warName>
-          <webXml>WebContent\WEB-INF\web.xml</webXml>
         </configuration>
       </plugin>
     </plugins>
